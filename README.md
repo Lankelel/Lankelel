@@ -39,9 +39,3 @@
 - 多资产配置 / 量化 / 投资决策系统
 - AI Agent 编排 / 自动化工作流 / to-B AI 落地
 - 「小而美」的个人工具产品化
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lankelel&show_icons=true&hide_rank=true&hide_title=true" alt="GitHub stats" />
-</p>
